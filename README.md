@@ -5,6 +5,13 @@ Trong dự án lần này mình sẽ giới thiệu và trình bày những thư
 + [2. Pandas](https://github.com/CrackerLambda/Data-Science/blob/main/Pandas_Tutorial.ipynb)
 + [3. Matplotlib](https://github.com/CrackerLambda/Data-Science/blob/main/Matplotlib_Tutorial.ipynb)
 + [4. Seaborn](https://github.com/CrackerLambda/Data-Science/blob/main/Seaborn_Tutorial.ipynb)
++ [5. Scipy](https://github.com/RootsLambda/Data-Science/blob/main/Scipy_Tutorial.ipynb)
++ [6. Plotly](https://github.com/RootsLambda/Data-Science/blob/main/Plotly_Tutorial.ipynb)
++ [7. Scikit-learn](https://github.com/RootsLambda/Data-Science/blob/main/Scikit-Learn_Tutorial.ipynb)
++ [8. Tensorflow](https://github.com/RootsLambda/Data-Science/blob/main/Tensorflow_Tutorial.ipynb)
++ [9. Pytorch](https://github.com/RootsLambda/Data-Science/blob/main/Pytorch_Tutorial.ipynb)
++ [10. Theano](https://github.com/RootsLambda/Data-Science/blob/main/Theano_Tutorial.ipynb)
++ [11. Bokeh](https://github.com/RootsLambda/Data-Science/blob/main/Bokeh_Tutorial.ipynb)
 # Sử dụng
 + Tài liệu được viết bằng jupyter notebook nếu bạn muốn mở trực tiếp thể dùng google colab, hoặc sử dụng jupyter notebook trong gói của Anaconda.
 + Bạn có thể chạy code trên các IDE nổi tiếng như Pycharm, Visual Studio,..
